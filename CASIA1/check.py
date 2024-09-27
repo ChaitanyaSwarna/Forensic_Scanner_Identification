@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 22 17:21:57 2017
-
-@author: dell
-"""
 import os
 from glob import glob
 import matplotlib.pyplot as plt
